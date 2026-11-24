@@ -1,0 +1,6 @@
+@LogiRoute_HostAddress = http://localhost:5227
+
+GET {{LogiRoute_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
